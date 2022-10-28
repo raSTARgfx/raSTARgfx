@@ -11,7 +11,6 @@ Hi, my name is Jared and I'm a programmer. My primary focus right now is emulati
 - Ruby
 
 ### Current Projects
-- **Hotarubi**: Sega Saturn emulator (currently closed source)
+- [Hotarubi](https://github.com/HotarubiEmu): Sega Saturn emulator (currently closed source)
+- [Open Cloud](https://github.com/Gundorada-Workshop/OpenCloud): Dark Cloud 1 and 2 reimplementation
 - Whatever else I feel like working on
-
-
